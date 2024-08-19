@@ -1,2 +1,4 @@
 # Competition_submission_doc
-集创赛提交资料
+此仓库用于存储集创赛的比赛提交文档，包括了
+- PDF文档
+- PPT
